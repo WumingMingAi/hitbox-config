@@ -1,0 +1,6 @@
+if SHIELD_HITBOX
+
+config ZMK_KEYBOARD_NAME
+    default "Hitbox"
+
+endif
